@@ -5,8 +5,16 @@ name = "pypi"
 
 [packages]
 jupyterlab = "*"
-numpy = "*"
 importlib-metadata = "==1.7.0"
+setuptools = "*"
+wheel = "*"
+pip = "*"
+numpy = "*"
+spacy = "*"
+flashgeotext = "*"
+pyahocorasick = "*"
+pycountry = "*"
+pandas = "*"
 
 [dev-packages]
 
